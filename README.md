@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Kubernetes Web 模拟器
 
 一个基于Web的Kubernetes学习工具，做着玩的项目。在浏览器里模拟kubectl命令操作，方便学习和练习K8s相关知识。
@@ -96,6 +95,3 @@ src/
 ## 许可证
 
 MIT License - 随便用，不用客气。
-=======
-# KubeQuest
->>>>>>> ee99147d858c86b87937fe3c4c0f93a5e832ffe4
